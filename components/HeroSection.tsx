@@ -25,7 +25,7 @@ const HeroSection: React.FC = () => {
       </div>
       <div className="container mx-auto px-6 text-center z-10">
         <h1 className="text-4xl md:text-6xl font-serif font-extrabold leading-tight mb-4">
-          Retain Your Best Associates — Intelligently.
+          Ret<span className="text-brand-gold">AI</span>n Your Best Associates — Intelligently.
         </h1>
         <p className="text-lg md:text-xl text-brand-gray max-w-3xl mx-auto mb-8">
           Leverage AI-driven personality analytics and conversational intelligence to build a thriving, resilient legal team.
